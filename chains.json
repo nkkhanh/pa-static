@@ -1,0 +1,150 @@
+[
+  {
+    "id": 1,
+    "chain_id": 1,
+    "chain_type": 1,
+    "network": 2,
+    "name": "Ethereum Mainnet",
+    "ticker": "ETH",
+    "logo_url": "https://chainlist.wtf/static/0617583cb3eb7a14f3a09893d5b1f895/9d3ce/ethereum.webp",
+    "rpc_url": "https://mainnet.infura.io/v3/a4462198a93045cfa5b881a70ba3321d",
+    "block_explorer_url": "https://etherscan.io/",
+    "active": true,
+    "tokens": [
+      {
+        "id": 1,
+        "price": 1628.92,
+        "address": "0x0000000000000000000000000000000000000000",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "type": "NATIVE",
+        "decimals": 18,
+        "logo": "https://chainlist.wtf/static/0617583cb3eb7a14f3a09893d5b1f895/9d3ce/ethereum.webp",
+        "description": "",
+        "website": "",
+        "explorer": "https://etherscan.io/token/0x0000000000000000000000000000000000000000",
+        "popular": true,
+        "active": true,
+        "chain": 1
+      },
+      {
+        "id": 261,
+        "price": 0,
+        "address": "0x5Ee3188A3f8aDee1D736EdD4AE85000105C88f66",
+        "name": "Pentagon",
+        "symbol": "PEN",
+        "type": "ERC20",
+        "decimals": 18,
+        "logo": "https://pentagon.games/assets/images/brand-kit/token/png/token-icon-ws-full-size.png",
+        "description": "",
+        "website": "",
+        "explorer": "https://etherscan.io/token/0x5Ee3188A3f8aDee1D736EdD4AE85000105C88f66",
+        "popular": true,
+        "active": true,
+        "chain": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chain_id": 137,
+    "chain_type": 1,
+    "network": 2,
+    "name": "Polygon Mainnet",
+    "ticker": "MATIC",
+    "logo_url": "https://chainlist.wtf/static/1ee4a1ab4dd95100e8d21e67acf53849/e73fe/polygon.webp",
+    "rpc_url": "https://polygon.llamarpc.com",
+    "block_explorer_url": "https://polygonscan.com/",
+    "active": true,
+    "tokens": [
+      {
+        "id": 2,
+        "price": 0,
+        "address": "0x0000000000000000000000000000000000000000",
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "type": "NATIVE",
+        "decimals": 18,
+        "logo": "https://assets.polygon.technology/tokenAssets/matic.svg",
+        "description": "",
+        "website": "",
+        "explorer": "https://polygonscan.com/token/0x0000000000000000000000000000000000000000",
+        "popular": true,
+        "active": true,
+        "chain": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chain_id": 56,
+    "chain_type": 1,
+    "network": 2,
+    "name": "BNB Chain",
+    "ticker": "BNB",
+    "logo_url": "https://chainlist.wtf/static/c28b1ce0db30e3dcc388d03e5fc41b56/e73fe/bnbchain.webp",
+    "rpc_url": "https://binance.llamarpc.com",
+    "block_explorer_url": "https://bscscan.com/",
+    "active": true
+  },
+  {
+    "id": 7,
+    "chain_id": 42161,
+    "chain_type": 1,
+    "network": 2,
+    "name": "Arbitrum One",
+    "ticker": "ETH",
+    "logo_url": "https://assets.coingecko.com/asset_platforms/images/33/small/AO_logomark.png",
+    "rpc_url": "https://arb1.arbitrum.io/rpc",
+    "block_explorer_url": "https://arbiscan.io",
+    "active": true,
+    "tokens": [
+      {
+        "id": 6,
+        "price": 561.72,
+        "address": "0x0000000000000000000000000000000000000000",
+        "name": "BNB",
+        "symbol": "BNB",
+        "type": "NATIVE",
+        "decimals": 18,
+        "logo": "https://chainlist.wtf/static/c28b1ce0db30e3dcc388d03e5fc41b56/e73fe/bnbchain.webp",
+        "description": "",
+        "website": "",
+        "explorer": "https://chainlist.wtf/static/c28b1ce0db30e3dcc388d03e5fc41b56/e73fe/bnbchain.webp",
+        "popular": true,
+        "active": true,
+        "chain": 3
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "chain_id": 3344,
+    "chain_type": 1,
+    "network": 2,
+    "name": "Pentagon Chain",
+    "ticker": "PC",
+    "logo_url": "https://storage.googleapis.com/pgpublic-access/pg-website-resource/ic-pentagon-mainnet.png",
+    "rpc_url": "https://rpc.pentagon.games",
+    "block_explorer_url": "https://explorer.pentagon.games",
+    "active": true,
+    "tokens": [
+      {
+        "id": 6,
+        "price": 561.72,
+        "address": "0x0000000000000000000000000000000000000000",
+        "name": "BNB",
+        "symbol": "BNB",
+        "type": "NATIVE",
+        "decimals": 18,
+        "logo": "https://chainlist.wtf/static/c28b1ce0db30e3dcc388d03e5fc41b56/e73fe/bnbchain.webp",
+        "description": "",
+        "website": "",
+        "explorer": "https://chainlist.wtf/static/c28b1ce0db30e3dcc388d03e5fc41b56/e73fe/bnbchain.webp",
+        "popular": true,
+        "active": true,
+        "chain": 3
+      }
+    ]
+  }
+]
