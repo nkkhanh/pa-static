@@ -55,7 +55,7 @@
     "name": "Ethereum Mainnet",
     "ticker": "ETH",
     "logo_url": "https://chainlist.wtf/static/0617583cb3eb7a14f3a09893d5b1f895/9d3ce/ethereum.webp",
-    "rpc_url": "https://mainnet.infura.io/v3/a4462198a93045cfa5b881a70ba3321d",
+    "rpc_url": "https://eth.rpc.blxrbdn.com",
     "block_explorer_url": "https://etherscan.io/",
     "active": true
   },
