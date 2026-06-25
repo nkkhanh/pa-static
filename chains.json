@@ -18,7 +18,7 @@
     "network": 2,
     "name": "BNB Chain",
     "ticker": "BNB",
-    "logo_url": "https://chainlist.wtf/static/c28b1ce0db30e3dcc388d03e5fc41b56/e73fe/bnbchain.webp",
+    "logo_url": "https://www.bnbchain.org/images/brand-guidelines/png/BNB%20Chain_Symbol_Yellow.png",
     "rpc_url": "https://bsc-dataseed.bnbchain.org",
     "block_explorer_url": "https://bscscan.com/",
     "active": true
