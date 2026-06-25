@@ -1,26 +1,14 @@
 [
   {
-    "id": 1,
-    "chain_id": 1,
+    "id": 6,
+    "chain_id": 11155111,
     "chain_type": 1,
-    "network": 2,
-    "name": "Ethereum Mainnet",
+    "network": 1,
+    "name": "Sepolia Testnet",
     "ticker": "ETH",
     "logo_url": "https://chainlist.wtf/static/0617583cb3eb7a14f3a09893d5b1f895/9d3ce/ethereum.webp",
-    "rpc_url": "https://mainnet.infura.io/v3/a4462198a93045cfa5b881a70ba3321d",
-    "block_explorer_url": "https://etherscan.io/",
-    "active": true
-  },
-  {
-    "id": 2,
-    "chain_id": 137,
-    "chain_type": 1,
-    "network": 2,
-    "name": "Polygon Mainnet",
-    "ticker": "MATIC",
-    "logo_url": "https://chainlist.wtf/static/1ee4a1ab4dd95100e8d21e67acf53849/e73fe/polygon.webp",
-    "rpc_url": "https://polygon.llamarpc.com",
-    "block_explorer_url": "https://polygonscan.com/",
+    "rpc_url": "https://rpc.sepolia.org",
+    "block_explorer_url": "https://sepolia.etherscan.io",
     "active": true
   },
   {
@@ -36,7 +24,19 @@
     "active": true
   },
   {
-    "id": 4,
+    "id": 2,
+    "chain_id": 137,
+    "chain_type": 1,
+    "network": 2,
+    "name": "Polygon Mainnet",
+    "ticker": "MATIC",
+    "logo_url": "https://chainlist.wtf/static/1ee4a1ab4dd95100e8d21e67acf53849/e73fe/polygon.webp",
+    "rpc_url": "https://polygon.llamarpc.com",
+    "block_explorer_url": "https://polygonscan.com/",
+    "active": true
+  },
+  {
+    "id": 7,
     "chain_id": 42161,
     "chain_type": 1,
     "network": 2,
@@ -48,7 +48,19 @@
     "active": true
   },
   {
-    "id": 5,
+    "id": 1,
+    "chain_id": 1,
+    "chain_type": 1,
+    "network": 2,
+    "name": "Ethereum Mainnet",
+    "ticker": "ETH",
+    "logo_url": "https://chainlist.wtf/static/0617583cb3eb7a14f3a09893d5b1f895/9d3ce/ethereum.webp",
+    "rpc_url": "https://mainnet.infura.io/v3/a4462198a93045cfa5b881a70ba3321d",
+    "block_explorer_url": "https://etherscan.io/",
+    "active": true
+  },
+  {
+    "id": 8,
     "chain_id": 3344,
     "chain_type": 1,
     "network": 2,
