@@ -7,7 +7,7 @@
     "name": "Sepolia Testnet",
     "ticker": "ETH",
     "logo_url": "https://chainlist.wtf/static/0617583cb3eb7a14f3a09893d5b1f895/9d3ce/ethereum.webp",
-    "rpc_url": "https://rpc.sepolia.org",
+    "rpc_url": "https://gateway.tenderly.co/public/sepolia",
     "block_explorer_url": "https://sepolia.etherscan.io",
     "active": true
   },
@@ -19,7 +19,7 @@
     "name": "BNB Chain",
     "ticker": "BNB",
     "logo_url": "https://chainlist.wtf/static/c28b1ce0db30e3dcc388d03e5fc41b56/e73fe/bnbchain.webp",
-    "rpc_url": "https://binance.llamarpc.com",
+    "rpc_url": "https://bsc-dataseed.bnbchain.org",
     "block_explorer_url": "https://bscscan.com/",
     "active": true
   },
@@ -31,7 +31,7 @@
     "name": "Polygon Mainnet",
     "ticker": "MATIC",
     "logo_url": "https://chainlist.wtf/static/1ee4a1ab4dd95100e8d21e67acf53849/e73fe/polygon.webp",
-    "rpc_url": "https://polygon.llamarpc.com",
+    "rpc_url": "https://poly.api.pocket.network",
     "block_explorer_url": "https://polygonscan.com/",
     "active": true
   },
